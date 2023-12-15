@@ -5,7 +5,11 @@
 
 ## Connect with me  
 <div align="left">
- [![Gmail Badge](https://img.shields.io/badge/-aishnikam31@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aishnikam31@gmail.com "Connect via Email")
+
+<a href="mailto:aishnikam31@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+</a>
+
 
 <a href="https://github.com/nikamaish" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
