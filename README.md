@@ -2,11 +2,6 @@
 <h1 align="center">Hi, I'm Aishwarya Nikam 👋</h1>
 <h3 align="center">I'm a Full stack Developer 👩🏻‍💻, Gamer 🎮 , Technophile 💻</h3>
 
-- 💬 Ask me about **Web Development, C++, Video Games**
-
-- 📫 How to reach me **aishnikam31@gmail.com**
-
-- ⚡ Upcoming Goals **Want to create backend servers using nginx, learn Redux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
