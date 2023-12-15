@@ -32,7 +32,7 @@
 
 ### Langauges
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50px"/>
+<img align="left" alt="c++" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain.svg" />
 <img align="left" alt="php" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" />
 <br/>
