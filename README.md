@@ -22,13 +22,11 @@
 <a href="https://leetcode.com/aishnikam31" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 </a>  
-
-
-
 </div>  
-  
-
 <br/>  
+
+</hr>
+
 
 ### Frontend
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
