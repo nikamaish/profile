@@ -3,11 +3,23 @@
 <h3 align="center">I'm a Full stack Developer 👩🏻‍💻, Gamer 🎮 , Technophile 💻</h3>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%f0%9d%90%80%f0%9d%90%a2%f0%9d%90%ac%f0%9d%90%a1%f0%9d%90%b0%f0%9d%90%9a%f0%9d%90%ab%f0%9d%90%b2%f0%9d%90%9a-%f0%9d%90%8d%f0%9d%90%a2%f0%9d%90%a4%f0%9d%90%9a%f0%9d%90%a6-8175221b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%f0%9d%90%80%f0%9d%90%a2%f0%9d%90%ac%f0%9d%90%a1%f0%9d%90%b0%f0%9d%90%9a%f0%9d%90%ab%f0%9d%90%b2%f0%9d%90%9a-%f0%9d%90%8d%f0%9d%90%a2%f0%9d%90%a4%f0%9d%90%9a%f0%9d%90%a6-8175221b5/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aishnikam31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aishnikam31/" height="30" width="40" /></a>
-</p>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/nikamaish" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/𝐀𝐢𝐬𝐡𝐰𝐚𝐫𝐲𝐚-𝐍𝐢𝐤𝐚𝐦-8175221b5/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://leetcode.com/aishnikam31" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 
 ### Frontend
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
