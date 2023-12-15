@@ -24,7 +24,7 @@
 <br/>
 
 ### Backend
-<a href="https://nodejs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" style="padding-right:10px;" width="100px" /> </a>
+<img align="left" alt="express"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" width="100px"/>
 <img align="left" alt="express"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="padding-right:10px;" width="100px"/>
 <br/>
 <br/>
