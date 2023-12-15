@@ -25,7 +25,7 @@
 <br/>
 
 ### Backend
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100px"/> </a>
+<a href="https://nodejs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/nodejs-original-wordmark.svg" alt="node" width="100px"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100px" /> </a>
 <br/>
 <br/>
@@ -47,7 +47,7 @@
 <br/>
 
 ### Visualization
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60px" style="padding-right:10px;"/> </a>
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="80px" style="padding-right:10px;"/> </a>
 <br/>
 <br/>
 
