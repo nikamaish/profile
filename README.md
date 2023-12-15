@@ -47,7 +47,7 @@
 <br/>
 
 ### Visualization
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50px" style="padding-right:10px;"/> </a>
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="500px" style="padding-right:10px;"/> </a>
 <br/>
 <br/>
 
